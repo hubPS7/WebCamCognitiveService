@@ -1,0 +1,226 @@
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csprojResolveAssemblyReference.cache
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\ApplicationInsights.config
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\csc.exe
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\vbc.exe
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\WebCamApp.dll.config
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\WebCamApp.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\WebCamApp.pdb
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Antlr3.Runtime.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.Web.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Newtonsoft.Json.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.Helpers.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.Mvc.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.Optimization.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.Razor.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.WebPages.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\WebGrease.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.Web.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.Helpers.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.Mvc.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.Optimization.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.Razor.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.WebPages.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Antlr3.Runtime.pdb
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\bin\Newtonsoft.Json.xml
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\obj\Debug\WebCamApp.dll
+C:\Users\Sai\Documents\Visual Studio 2015\Projects\WebCamApp\WebCamApp\obj\Debug\WebCamApp.pdb
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csproj.CoreCompileInputs.cache
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\ApplicationInsights.config
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\csc.exe
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\vbc.exe
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.dll.config
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.pdb
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Antlr3.Runtime.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Web.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Newtonsoft.Json.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Helpers.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Mvc.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Optimization.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Razor.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\WebGrease.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Web.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Newtonsoft.Json.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Helpers.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Mvc.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Optimization.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Razor.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Antlr3.Runtime.pdb
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csproj.CopyComplete
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.dll
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.pdb
+C:\Users\pankajs\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csprojAssemblyReference.cache
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\ApplicationInsights.config
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\csc.exe
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\vbc.exe
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.dll.config
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.pdb
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Antlr3.Runtime.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Web.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Newtonsoft.Json.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Helpers.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Mvc.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Optimization.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Razor.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\WebGrease.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Web.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Newtonsoft.Json.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Helpers.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Mvc.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Optimization.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Razor.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\bin\Antlr3.Runtime.pdb
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csprojAssemblyReference.cache
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csproj.CoreCompileInputs.cache
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csproj.CopyComplete
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.dll
+C:\Users\pankajsakpal\Downloads\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.pdb
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\ApplicationInsights.config
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\csc.exe
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\System.Collections.Immutable.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\vbc.exe
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\VBCSCompiler.exe
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\roslyn\VBCSCompiler.exe.config
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.dll.config
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\WebCamApp.pdb
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Antlr3.Runtime.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Web.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.WindowsServer.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ApplicationInsights.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ProjectOxford.Vision.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.Web.Infrastructure.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Newtonsoft.Json.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Helpers.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Mvc.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Optimization.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Razor.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Deployment.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Razor.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\WebGrease.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.Web.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.AI.WindowsServer.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ApplicationInsights.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Newtonsoft.Json.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Helpers.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Mvc.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Optimization.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.Razor.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Deployment.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Web.WebPages.Razor.xml
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Antlr3.Runtime.pdb
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csprojAssemblyReference.cache
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csproj.CoreCompileInputs.cache
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.csproj.CopyComplete
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\obj\Debug\WebCamApp.pdb
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.CodeAnalysis.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\Microsoft.ProjectOxford.Face.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Collections.Immutable.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Reflection.Metadata.dll
+C:\imp\personal\WebCamApp\WebCamApp\WebCamApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
